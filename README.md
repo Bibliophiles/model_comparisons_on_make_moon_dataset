@@ -51,3 +51,7 @@ Experiment with additional models (e.g., k-NN, Logistic Regression).
 
 Add cross-validation and hyperparameter tuning.
 
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
+
